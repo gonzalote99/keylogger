@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  background-color: #bae8e8;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.tab {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+.container {
+margin: auto;
+width: 60%;
+background-color: rgb(208, 205, 205);
+padding: 30px;
+}
